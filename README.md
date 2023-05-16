@@ -8,7 +8,7 @@ Accedi all'applicazione nel tuo browser all'indirizzo http://localhost:8501/
 
 ## Crediti
 
-Questo progetto è stato sviluppato da Andrea Giorgio e Margherita Nuccio.
+Questo progetto è stato sviluppato da Andrea Giorgio.
 
 ## Licenza
 
